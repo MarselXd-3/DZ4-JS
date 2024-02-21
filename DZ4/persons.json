@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dwayne Johnson",
+    "age": 60,
+    "occupation": "Detective",
+    "person_photo": "https://www.film.ru/sites/default/files/people/1456177-1191023.jpg"
+  },
+  {
+    "name": "Keanu Reeves",
+    "age": 48,
+    "occupation": "Engineer",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Reunião_com_o_ator_norte-americano_Keanu_Reeves_%2846806576944%29_%28cropped%29.jpg/800px-Reunião_com_o_ator_norte-americano_Keanu_Reeves_%2846806576944%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "Brad Pitt",
+    "age": 50,
+    "occupation": "Teacher",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brad_Pitt_2019_by_Glenn_Francis.jpg/220px-Brad_Pitt_2019_by_Glenn_Francis.jpg"
+  }
+]
